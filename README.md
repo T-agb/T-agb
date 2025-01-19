@@ -7,7 +7,8 @@
 🤝 I’m looking to collaborate on data-driven projects, predictive modelling, and workflow optimization.  
 
 📬 How to reach me:  
-- LinkedIn: [https://www.linkedin.com/in/toluagbana]  
+- LinkedIn: [https://www.linkedin.com/in/toluagbana]
+- Portfolio: [https://www.datascienceportfol.io/agbanatolu]
 
 😄 Pronouns: He/Him 
 
